@@ -1,0 +1,119 @@
+
+
+@font-face {
+    font-family: "MuseOModerno Thin";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 100;
+    src:
+        local("MuseOModerno Thin"),
+        local("MuseOModerno-Thin"),
+        url("./files/MuseoModerno-Thin.woff") format("woff"),
+        url("./files/MuseoModerno-Thin.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno ExtraLight";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 200;
+    src:
+            local("MuseOModerno ExtraLight"),
+            local("MuseOModerno-ExtraLight"),
+            url("./files/MuseoModerno-ExtraLight.woff") format("woff"),
+            url("./files/MuseoModerno-ExtraLight.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno Light";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 300;
+    src:
+            local("MuseOModerno Light"),
+            local("MuseOModerno-Light"),
+            url("./files/MuseoModerno-Light.woff") format("woff"),
+            url("./files/MuseoModerno-Light.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno Regular";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src:
+            local("MuseOModerno Regular"),
+            local("MuseOModerno-Regular"),
+            url("./files/MuseoModerno-Regular.woff") format("woff"),
+            url("./files/MuseoModerno-Regular.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno Medium";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 500;
+    src:
+            local("MuseOModerno Medium"),
+            local("MuseOModerno-Medium"),
+            url("./files/MuseoModerno-Medium.woff") format("woff"),
+            url("./files/MuseoModerno-Medium.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno SemiBold";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 600;
+    src:
+            local("MuseOModerno SemiBold"),
+            local("MuseOModerno-SemiBold"),
+            url("./files/MuseoModerno-SemiBold.woff") format("woff"),
+            url("./files/MuseoModerno-SemiBold.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno Bold";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 700;
+    src:
+            local("MuseOModerno Bold"),
+            local("MuseOModerno-Bold"),
+            url("./files/MuseoModerno-Bold.woff") format("woff"),
+            url("./files/MuseoModerno-Bold.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno Black";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 800;
+    src:
+        local("MuseOModerno"),
+        local("MuseOModerno Black"),
+        local("MuseOModerno-Black"),
+        url("./files/MuseoModerno-Black.woff") format("woff"),
+        url("./files/MuseoModerno-Black.ttf") format("truetype")
+}
+
+
+@font-face {
+    font-family: "MuseOModerno";
+    font-style: normal;
+    font-display: swap;
+    font-weight: 400;
+    src:
+            local("MuseOModerno Regular"),
+            local("MuseOModerno-Regular"),
+            url("./files/MuseoModerno-Regular.woff") format("woff"),
+            url("./files/MuseoModerno-Regular.ttf") format("truetype")
+}
+
